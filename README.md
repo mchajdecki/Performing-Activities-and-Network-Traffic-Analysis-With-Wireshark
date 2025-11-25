@@ -54,6 +54,8 @@
 - Virtual Networks and Subnets
 
 <h3>For an in depth rundown on Microsoft Azure visit this <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
+
+  
 <br/>
 
 <h1 id="resource">Creating a Resource Group</h1>
