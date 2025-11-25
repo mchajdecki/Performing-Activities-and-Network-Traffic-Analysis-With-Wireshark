@@ -70,8 +70,6 @@
 <br />
 <hr>
 
-<h2>Creating a Resource Group</h2>
-
 <p>
 <img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/c06e3ccb2a4ea2837f38cc3fa9e081cbfba48612/images/Slide_2.jpg" alt="Creating a Resource Group - Slide_2"/>
 </p>
@@ -86,9 +84,6 @@
 <br />
 <hr>
 
-<h2>Creating a Resource Group</h2>
-
-
 <p>
 <img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/3b9de4e9d29d3bfef370557ac746475482409505/images/Slide_3.jpg" alt="Creating a Resource Group - Slide_3"/>
 </p>
@@ -99,9 +94,6 @@
 </p>
 <br/>
 <hr>
-
-<h2>Creating a Resource Group</h2>
-
 
 <p>
 <img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/31461d7d54b43a9d36bba5a6b8259e1b59f89267/images/Slide_4.jpg" alt="Creating a Resource Group - Slide_4"/>
