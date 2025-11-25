@@ -54,6 +54,7 @@
 - Virtual Networks and Subnets
 
 <h3>For an in depth rundown on Microsoft Azure visit this <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
+<br/>
 
 <h1 id="resource">Creating a Resource Group</h1>
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
@@ -107,9 +108,6 @@
 </p>
 <br/>
 <hr>
-
-
-
 
 
 
