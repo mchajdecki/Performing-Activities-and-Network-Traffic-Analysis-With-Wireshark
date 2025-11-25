@@ -55,7 +55,7 @@
 
 <h3>For an in depth rundown on Microsoft Azure visit this <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
-  
+  <br/>
 <br/>
 
 <h1 id="resource">Creating a Resource Group</h1>
@@ -84,7 +84,7 @@
     <li>Click Review + Create on the bottom of the page to continue.</li>
   </ol>
 </p>
-<br />
+<br/>
 <hr>
 
 <p>
