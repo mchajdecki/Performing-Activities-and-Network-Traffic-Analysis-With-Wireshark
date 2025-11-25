@@ -78,7 +78,7 @@
 <hr>
 
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/c06e3ccb2a4ea2837f38cc3fa9e081cbfba48612/images/Slide_2.jpg" alt="Creating a Resource Group - Slide_2"/>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/a93d0c1b45baa55b25610ef0b34ad98b7aa75fb5/images/Slide_2.jpg" alt="Creating a Resource Group - Slide_2"/>
 </p>
 <p>
   <ol type="1">
