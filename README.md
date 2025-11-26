@@ -4,7 +4,7 @@
   
 
 </p>
-<h2>Performing Activities and Network Traffic Analysis With Wireshark</h2>
+<h2>Performing Activities and Network Traffic Analysis Using Microsoft Azure and Wireshark</h2>
 <h3>A hands-on tutorial demonstrating how to use virtual machines to simulate network environments, perform connectivity tests, and analyze network traffic using Wireshark. </h3>
 <h2>This tutorial outlines the following</h2>
 <ul>
@@ -27,7 +27,7 @@
 
 <h2>Environments and Technologies Used</h2>
 
-- Macbook Air - Windows 10 Pro and Linux Ubuntu Virtual Machines
+- Macbook Air or Desktop - Windows 10 Pro Virtual Machine - Linux Ubuntu Virtual Machine
 - Internet Browser (Google Chrome) for Mac - (Microsoft Edge) Windows VM's
 - Microsoft Azure
 - Wireshark
