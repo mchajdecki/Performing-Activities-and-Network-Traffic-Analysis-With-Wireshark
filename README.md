@@ -149,11 +149,18 @@
 
 
 <p>
-<img src="" alt="Windows_VM - Slide_7"/>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/62f66212d2b2088d929cc77da441f250cec72e97/images/Slide_7.jpg" alt="Windows_VM - Slide_7"/>
 </p>
 <p>
   <ol type="1">
-    <li>Continue by clicking the +Create option.</li>
+      <li>Select the resource group created previously.</li>
+      <li>Name the Virtual Machine Windows VM for easy identification.</li>
+      <li>Select (US) East US2 for region.</li>
+      <li>Select the Windows 10 Enterprise LTSC 2021 -x64 Gen 1 for Image.</li>
+      <li>Select Standard_D2s_v3 - 2vcpus, 8 GIB memory for Size.</li>
+      <li>Create your username and password for this VM that you will be using at Log in.</li>
+      <li>Make sure to select the checkbox below before continuing to the next step.</li>
+     <li>Click Next: Disks</li>
   </ol>
 </p>
 <br/>
