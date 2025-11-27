@@ -69,15 +69,16 @@
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/2653b6e8d9499b49ce329ede643d139d47d5231c/images/Slide_1.jpg" alt="Creating a Resource Group - Slide_1"/>
-</p>
-<p>
   <ol type="1">
      <li>Navigate to Microsoft Azure main portal.</li>
     <li>Find the Resource Group Option on the home page of the Azure Portal or type in the search box.</li>
     <li>Click on the Resource Group option to continue.</li>
   </ol>
 </p>
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/2653b6e8d9499b49ce329ede643d139d47d5231c/images/Slide_1.jpg" alt="Creating a Resource Group - Slide_1"/>
+</p>
+
 <br />
 <hr>
 
