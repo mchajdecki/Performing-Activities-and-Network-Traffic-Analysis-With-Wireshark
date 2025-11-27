@@ -78,13 +78,11 @@
 <p>
 <img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/2653b6e8d9499b49ce329ede643d139d47d5231c/images/Slide_1.jpg" alt="Creating a Resource Group - Slide_1"/>
 </p>
-
-<br />
+<br>
 <hr>
 
-<p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/a93d0c1b45baa55b25610ef0b34ad98b7aa75fb5/images/Slide_2.jpg" alt="Creating a Resource Group - Slide_2"/>
-</p>
+
+
 <p>
   <ol type="1">
     <li>Select the Subscription you are currently using.</li>
@@ -93,23 +91,25 @@
     <li>Click Review + Create on the bottom of the page to continue.</li>
   </ol>
 </p>
-<br/>
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/a93d0c1b45baa55b25610ef0b34ad98b7aa75fb5/images/Slide_2.jpg" alt="Creating a Resource Group - Slide_2"/>
+</p>
+<br>
 <hr>
 
-<p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/3b9de4e9d29d3bfef370557ac746475482409505/images/Slide_3.jpg" alt="Creating a Resource Group - Slide_3"/>
-</p>
+
 <p>
   <ol type="1">
     <li>Click create again to continue.</li>
   </ol>
 </p>
-<br/>
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/3b9de4e9d29d3bfef370557ac746475482409505/images/Slide_3.jpg" alt="Creating a Resource Group - Slide_3"/>
+</p>
+<br>
 <hr>
 
-<p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/31461d7d54b43a9d36bba5a6b8259e1b59f89267/images/Slide_4.jpg" alt="Creating a Resource Group - Slide_4"/>
-</p>
+
 <p>
   <ol type="1">
     <li>A prompt message will display that the resource group has been successfully created.</li>
@@ -117,9 +117,14 @@
     <li>The Resource Group has been created.</li>  
   </ol>
 </p>
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/31461d7d54b43a9d36bba5a6b8259e1b59f89267/images/Slide_4.jpg" alt="Creating a Resource Group - Slide_4"/>
+</p>
 <br/>
 <br>
 <br>
+
+
 
 
 <h1 id="resource"><strong>Creating a Virtual Machine (Windows)</strong></h1>
@@ -127,32 +132,31 @@
 <h3>In the following steps we are creating a Windows Virtual Machine in Microsoft Azure.</h3>
 
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/14561c0ce0def05ac2cc08bce26951e89e0d3ada/images/Slide_5.jpg" alt="Windows_VM - Slide_5"/>
-</p>
-<p>
   <ol type="1">
     <li>On the home page of Microsoft Azure locate the Virtual Machines Option.</li>
     <li>Click on the Virtual Machines to continue.</li>
   </ol>
 </p>
-<br />
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/14561c0ce0def05ac2cc08bce26951e89e0d3ada/images/Slide_5.jpg" alt="Windows_VM - Slide_5"/>
+</p>
+<br>
 <hr>
 
 
-<p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/2411588286078719543c06b747dbfe32c85ca306/images/Slide_6.jpg" alt="Windows_VM - Slide_6"/>
-</p>
 <p>
   <ol type="1">
     <li>Continue by clicking the +Create option.</li>
   </ol>
 </p>
-<br/>
-
-
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/62f66212d2b2088d929cc77da441f250cec72e97/images/Slide_7.jpg" alt="Windows_VM - Slide_7"/>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/2411588286078719543c06b747dbfe32c85ca306/images/Slide_6.jpg" alt="Windows_VM - Slide_6"/>
 </p>
+<br>
+
+
+
+
 <p>
   <ol type="1">
       <li>Select the resource group created previously.</li>
@@ -165,7 +169,10 @@
      <li>Click Next: Disks</li>
   </ol>
 </p>
-<br/>
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/62f66212d2b2088d929cc77da441f250cec72e97/images/Slide_7.jpg" alt="Windows_VM - Slide_7"/>
+</p>
+<br>
 
 
 
