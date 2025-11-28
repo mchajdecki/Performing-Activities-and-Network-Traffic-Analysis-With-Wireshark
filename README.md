@@ -174,6 +174,24 @@
 <img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/62f66212d2b2088d929cc77da441f250cec72e97/images/Slide_7.jpg" alt="Windows_VM - Slide_7"/>
 </p>
 <br>
+<hr>
+
+
+<p>
+  <ol type="1">
+     <li>Click Next: Networking > to continue</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/8ed226977e170e79cc3517909a5140dfa8ea04b0/images/Slide_8.jpg" alt="Windows_VM - Slide_8"/>
+</p>
+<br>
+<hr>
+
+
+
+
+
 
 
 
