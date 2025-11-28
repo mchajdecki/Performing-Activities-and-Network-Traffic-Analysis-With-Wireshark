@@ -177,6 +177,7 @@
 <hr>
 
 
+
 <p>
   <ol type="1">
      <li>Click Next: Networking > to continue</li>
@@ -187,6 +188,21 @@
 </p>
 <br>
 <hr>
+
+
+
+<p>
+  <ol type="1">
+     <li>In the Virtual networ section click the Edit virtual network option. Here is where we will create our own Virtual network.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/6dea2f8249ddd26d4598fedc168bb86a6f5cd0a9/images/Slide_9.jpg" alt="Windows_VM - Slide_9"/>
+</p>
+<br>
+<hr>
+
+
 
 
 
