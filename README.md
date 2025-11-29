@@ -204,6 +204,21 @@
 
 
 
+<p>
+  <ol type="1">
+     <li>Delete the current subnet so it shows the message below.</li>
+     <li>You nust add at least one address space to the virtual network.</li>
+     <li>You must add at least one subet to the virtual network.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/daf96d998a3f9445d8e254d04ade4370df8734e0/images/Slide-10.jpg" alt="Windows_VM - Slide_10"/>
+</p>
+<br>
+<hr>
+
+
+
 
 
 
