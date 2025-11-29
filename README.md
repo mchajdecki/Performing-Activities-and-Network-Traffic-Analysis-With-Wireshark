@@ -150,7 +150,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/2411588286078719543c06b747dbfe32c85ca306/images/Slide_6.jpg" alt="Windows_VM - Slide_6"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/57af34de1972fc0d4049a7830a827b26bdd4ffba/images/Slide-6.jpg" alt="Windows_VM - Slide_6"/>
 </p>
 <br>
 <hr>
@@ -171,7 +171,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/62f66212d2b2088d929cc77da441f250cec72e97/images/Slide_7.jpg" alt="Windows_VM - Slide_7"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/57af34de1972fc0d4049a7830a827b26bdd4ffba/images/Slide-7.jpg" alt="Windows_VM - Slide_7"/>
 </p>
 <br>
 <hr>
@@ -184,7 +184,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/8ed226977e170e79cc3517909a5140dfa8ea04b0/images/Slide_8.jpg" alt="Windows_VM - Slide_8"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/57af34de1972fc0d4049a7830a827b26bdd4ffba/images/Slide-8.jpg" alt="Windows_VM - Slide_8"/>
 </p>
 <br>
 <hr>
@@ -197,7 +197,7 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/6dea2f8249ddd26d4598fedc168bb86a6f5cd0a9/images/Slide_9.jpg" alt="Windows_VM - Slide_9"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/57af34de1972fc0d4049a7830a827b26bdd4ffba/images/Slide-9.jpg" alt="Windows_VM - Slide_9"/>
 </p>
 <br>
 <hr>
@@ -212,7 +212,21 @@
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/daf96d998a3f9445d8e254d04ade4370df8734e0/images/Slide-10.jpg" alt="Windows_VM - Slide_10"/>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/092174694d13d5f4b4fec97a31661b75a1d6c775/images/Slide_10.jpg" alt="Windows_VM - Slide_10"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+     <li>Click the Add a subnet option.</li>
+     <li>A side box will appear and require you to put in Name and Starting address which will be 10.0.0.0 for this tutorial.</li>
+     <li>Click Add to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/092174694d13d5f4b4fec97a31661b75a1d6c775/images/Slide_11.jpg" alt="Windows_VM - Slide_11"/>
 </p>
 <br>
 <hr>
